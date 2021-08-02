@@ -26,3 +26,24 @@
 de Sistemas.
 
 ---
+
+## Experiência Profissional
+
+<ul> <li>Programmers: 2019 -</li></ul>
+
+## Qualificações
+
+<ul> <li>Certificação Azure 204</li></ul>
+
+---
+
+## Conhecimentos
+
+<ul> 
+    <li>HTML</li>
+    <li>JS</li>
+    <li>C#</li>
+    <li>Azure</li>
+</ul>
+
+---
