@@ -26,3 +26,11 @@
 de Sistemas.
 
 ---
+
+## Projetos pessoais
+
+<ul>
+    <li>Andar 50 km de bicicleta</li>
+</ul>
+
+---
