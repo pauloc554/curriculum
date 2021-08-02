@@ -15,3 +15,14 @@
 <b>Contato:</b> (16) 98192-5073
 
 <b>E-mail:</b> paulojcalanca@gmail.com
+
+---
+
+## Formação Acadêmica
+
+<b>Faculdade Alfa Umuarama:</b> Cursando pós-graduação WebDev (fim: dezembro 2022)
+
+<b>Fatec Taquaritinga:</b> Graduado no curso de Tecnologia em Análise e Desenvolvimento
+de Sistemas.
+
+---
