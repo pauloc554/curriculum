@@ -47,3 +47,9 @@ de Sistemas.
 </ul>
 
 ---
+
+## Eventos
+<ul>
+    <li>Google I/O 2018</li>
+    <li>Azure Summit 2020</li>
+</ul>
