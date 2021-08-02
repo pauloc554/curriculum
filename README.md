@@ -48,8 +48,22 @@ de Sistemas.
 
 ---
 
+## Projetos pessoais
+
+<ul>
+    <li>Andar 50 km de bicicleta</li>
+</ul>
+
+---
+
 ## Eventos
 <ul>
     <li>Google I/O 2018</li>
     <li>Azure Summit 2020</li>
+</ul>
+
+---
+## Redes socias
+<ul>
+    <li>paulo.calanca</li>
 </ul>
